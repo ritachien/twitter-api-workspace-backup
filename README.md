@@ -5,7 +5,7 @@
 ## 共用資源  
 * [acceptance criteria / API list(初稿)](https://docs.google.com/spreadsheets/d/1xD3pOvEcfQ0Br-adiQ_ojXzbVDYeco0-MlJ-GMvsAf8/edit#gid=0)  
 * [API 分析文件總表]()  
-* [元件及資料分析整理表]()  
+* [元件及資料分析整理表](./view-analysis/view.analysis.md)  
 * [資源列表]()  
 
 
